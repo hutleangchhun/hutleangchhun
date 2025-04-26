@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Raizo! 👋
 
-<!--
-**hutleangchhun/hutleangchhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** passionate about building scalable, high-performance web applications. Currently, I work with **React.js**,**Vue**, **Node.js**, **Vite**, and **MySQL** to craft clean, efficient, and interactive experiences. 🚀
 
-Here are some ideas to get you started:
+## 👨‍💻 What I Do
+I specialize in building modern web applications with a focus on:
+- **Frontend**: React.js, Tailwind CSS, Vite, Vue
+- **Backend**: Node.js, Express, MySQL
+- **Version Control**: Git, GitHub
+- **CI/CD**: Automating workflows to improve productivity
+- **API Development**: Designing RESTful APIs for data-driven apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: React.js, Tailwind CSS, Vite
+- **Backend**: Node.js, Express, MySQL
+- **DevOps**: GitHub Actions
+
+## 💬 Let's Connect!
+- **GitHub**: [github.com/hutleangchhun](https://github.com/hutleangchhun)
+- **LinkedIn**: [linkedin.com/in/leangchhun-hut](https://www.linkedin.com/in/leangchhun-hut-3a4543228/)
+- **Email**: [hutleangchhun@gmail.com](mailto:hutleangchhun@gmail.com)
+
+I’m always open to collaborating on exciting projects. Let’s build something amazing! 🌟
