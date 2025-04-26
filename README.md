@@ -13,7 +13,7 @@ I specialize in building modern web applications with a focus on:
 ## 🔧 Tools & Technologies
 - **Languages**: JavaScript, TypeScript
 - **Frontend**: React.js, Tailwind CSS, Vite
-- **Backend**: Node.js, Express, MySQL
+- **Backend**: Node.js, Express, MySQL, PHP, Laravel
 - **DevOps**: GitHub Actions
 
 ## 💬 Let's Connect!
