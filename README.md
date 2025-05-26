@@ -5,9 +5,8 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 ## 👨‍💻 What I Do
 I specialize in building modern web applications with a focus on:
 - **Frontend**: React.js, Tailwind CSS, Vite, Vue
-- **Backend**: Node.js, Express, MySQL
+- **Backend**: Node.js, Express, MySQL, PHP and Laravel
 - **Version Control**: Git, GitHub
-- **CI/CD**: Automating workflows to improve productivity
 - **API Development**: Designing RESTful APIs for data-driven apps
 
 ## 💻 Tech Stack:
